@@ -1,0 +1,14 @@
+
+file_format: "1"
+id: swan42
+name: swan42
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
+siblings:
+  - swan42_left
+  - swan42_right
